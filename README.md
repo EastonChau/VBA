@@ -1,5 +1,3 @@
-Here is a clean, copy-pasteable README.md template tailored to your files and dataset details:
-markdown
 # Self-financing Post-secondary Scholarship Scheme — Excel VBA Tools
 
 This repository contains Excel VBA macros and the macro-enabled dataset used for managing and processing scholarship award records.
